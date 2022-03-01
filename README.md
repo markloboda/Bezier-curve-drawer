@@ -10,3 +10,6 @@ Instructions
 - Go to the project root directory.
 - Type live-server.
 - Open http://127.0.0.1:8080/ in your browser.
+
+Preview for the app:
+<img src="./images/preview.png">
